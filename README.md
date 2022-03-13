@@ -20,7 +20,7 @@
 ---
 
 ![non criminal](./noncriminal.png)
-## jordan association of engineers certificate
+## High School certificate
 ![secondary school certificate](./secondaryschoolcertificate.jpg)
 ## Teaching certificates
 ---
